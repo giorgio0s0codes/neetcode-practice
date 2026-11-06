@@ -20,7 +20,7 @@ A starting template for new problems is in [template.py](template.py).
 
 | Topic | Solved |
 | --- | --- |
-| Arrays & Hashing | 5 |
+| Arrays & Hashing | 6 |
 | Two Pointers | 0 |
 | Sliding Window | 0 |
 | Stack | 0 |
