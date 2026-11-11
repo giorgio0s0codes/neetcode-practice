@@ -22,7 +22,7 @@ A starting template for new problems is in [template.py](template.py).
 | --- | --- |
 | Arrays & Hashing | 6 |
 | Two Pointers | 0 |
-| Sliding Window | 3 |
+| Sliding Window | 4 |
 | Stack | 0 |
 | Binary Search | 0 |
 | Linked List | 0 |
