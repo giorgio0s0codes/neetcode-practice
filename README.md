@@ -21,7 +21,7 @@ A starting template for new problems is in [template.py](template.py).
 | Topic | Solved |
 | --- | --- |
 | Arrays & Hashing | 6 |
-| Two Pointers | 1 |
+| Two Pointers | 2 |
 | Sliding Window | 6 |
 | Stack | 0 |
 | Binary Search | 0 |
