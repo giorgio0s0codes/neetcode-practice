@@ -21,7 +21,7 @@ A starting template for new problems is in [template.py](template.py).
 | Topic | Solved |
 | --- | --- |
 | Arrays & Hashing | 6 |
-| Two Pointers | 2 |
+| Two Pointers | 4 |
 | Sliding Window | 6 |
 | Stack | 0 |
 | Binary Search | 0 |
@@ -35,5 +35,5 @@ A starting template for new problems is in [template.py](template.py).
 | 2-D Dynamic Programming | 0 |
 | Greedy | 0 |
 | Intervals | 0 |
-| Math & Geometry | 0 |
+| Math & Geometry | 1 |
 | Bit Manipulation | 0 |
